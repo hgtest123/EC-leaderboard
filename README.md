@@ -4,7 +4,7 @@
 [![Data Update](https://img.shields.io/badge/Data-Updated_Weekly-blue)](https://github.com/your-org/leaderboard)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-> **全球首个基于真实物理环境数据（Real-World Data）的具身智能模型排行榜。**
+> **全球首个基于真实物理环境的具身智能模型排行榜。**
 > 
 > 这里的每一个分数，都来自 RC 平台上的真实机器人运行数据，而非单纯的仿真模拟。我们致力于连接算法与物理世界，帮助开发者找到最适合真实场景的具身大模型。
 

@@ -26,9 +26,11 @@
 * **SR (Success Rate):** 在 RC 平台上执行标准任务集（抓取、移动、规划等）的端到端成功率。
 * **Body:** 该模型主要评测的机器人本体硬件。
 
+**提交评测**: [点击查看提交指南](./SUBMISSION.md)
+
 ---
 
-## 🗳️ Community & Requests (你以此为荣，也由你决定)
+## 🗳️ Community & Requests
 
 我们是一个社区驱动的项目。你的反馈决定了我们下一个评测什么模型，以及榜单的进化方向。
 
@@ -46,12 +48,12 @@
 
 为了保证榜单的公信力，我们采用 RC 平台标准化的评测流：
 
-1.  **Model Integration**: 将开源模型接入 RC 具身智能操作系统。
+1.  **Model Integration**: 将开源模型接入 RC 平台。
 2.  **Sim-to-Real Check**: 进行基础的仿真环境对齐。
 3.  **Real-World Testing**: **这是我们的核心**。我们在标准化的物理实验室中，使用真实的机器人本体（如 Unitree, Fourier, Agile X 等）进行不少于 50 次的任务尝试。
 4.  **Scoring**: 基于任务完成度、耗时、平稳度进行综合打分。
 
-*想了解详细的评测 Case 和任务定义？请查看 [Doxbotic 文档](https://doxbotic.com/eval-standards).*
+*想了解详细的评测 Case 和任务定义？请查看 [技术报告](https://doxbotic.com/eval.*
 
 ---
 
@@ -59,20 +61,13 @@
 
 我们致力于构建开放的具身智能生态。
 
-### 🚀 成为合作伙伴 (For Enterprise/Labs)
+### 🚀 成为合作伙伴
 如果您是机器人硬件厂商或模型研发机构，希望您的产品出现在榜单前列或接入 RC 生态：
-* **提交评测**: [点击查看提交指南](./SUBMISSION.md)
 * **商务合作**: 请联系 partnership@rc-platform.com
 
 ### 📚 相关资源
 * **[Doxbotic]**: 我们的核心文档库与知识库。
 * **[RC Platform SDK]**: 快速将你的模型部署到真实机器人上。
-
----
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=your-org/leaderboard&type=Date)](https://star-history.com/#your-org/leaderboard&Date)
 
 ---
 

@@ -10,7 +10,7 @@
 
 ---
 
-## 📊 Leaderboard (Top Tier)
+## 📊 Leaderboard
 
 *最后更新时间: 2026-01-06 | [查看完整榜单及详细数据 >>](./FULL_LEADERBOARD.md)*
 
